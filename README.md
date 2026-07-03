@@ -1,4 +1,4 @@
-readme = """# Hi, I'm Enes Yılmaz 👋
+ Hi, I'm Enes Yılmaz 👋
 
 ### .NET Developer | AI & RAG Enthusiast | OCR & Document Automation | 3D Artist
 
@@ -84,9 +84,6 @@ Portfolio-oriented project that reflects my 3D art and visual design background.
 - Email: **enesyilmaz40@gmail.com**
 - LinkedIn: [linkedin.com/in/enesyilmaz40](https://www.linkedin.com/in/enesyilmaz40/)
 - GitHub: [github.com/enesyilmaz40](https://github.com/enesyilmaz40)
-"""
 
-path = "/mnt/data/README_FIXED_NO_STATS.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(readme)
-path
+
+
