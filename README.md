@@ -1,4 +1,4 @@
-readme = r"""# Hi, I'm Enes Yılmaz 👋
+readme = Hi, I'm Enes Yılmaz 👋
 
 ### .NET Developer | AI & RAG Enthusiast | OCR & Document Automation | 3D Artist
 
