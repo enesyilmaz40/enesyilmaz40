@@ -1,4 +1,4 @@
- Hi, I'm Enes Yılmaz 👋
+readme = """# Hi, I'm Enes Yılmaz 👋
 
 ### .NET Developer | AI & RAG Enthusiast | OCR & Document Automation | 3D Artist
 
@@ -20,19 +20,15 @@ I am also interested in **AI-powered document processing, local LLMs, RAG system
 ## 🚀 Featured Projects
 
 ### [Lumos.Chat.Bot](https://github.com/enesyilmaz40/Lumos.Chat.Bot)
-
 AI-focused chatbot project built around modern .NET architecture, local LLM concepts and RAG workflows.
 
 ### [MyShelf](https://github.com/enesyilmaz40/MyShelf)
-
 Full-stack application using modern backend and frontend technologies.
 
 ### [MultiShop](https://github.com/enesyilmaz40/MultiShop)
-
 Microservices-based e-commerce project focused on distributed service architecture.
 
 ### [3dStudioPortfolio](https://github.com/enesyilmaz40/3dStudioPortfolio)
-
 Portfolio-oriented project that reflects my 3D art and visual design background.
 
 ---
@@ -40,7 +36,6 @@ Portfolio-oriented project that reflects my 3D art and visual design background.
 ## 🧰 Tech Stack
 
 ### Backend
-
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -48,14 +43,12 @@ Portfolio-oriented project that reflects my 3D art and visual design background.
 ![WCF](https://img.shields.io/badge/WCF-68217A?style=flat-square)
 
 ### Database
-
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -63,7 +56,6 @@ Portfolio-oriented project that reflects my 3D art and visual design background.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### AI & Tools
-
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-512BD4?style=flat-square&logo=microsoft&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
@@ -72,7 +64,6 @@ Portfolio-oriented project that reflects my 3D art and visual design background.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Creative
-
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
@@ -88,14 +79,6 @@ Portfolio-oriented project that reflects my 3D art and visual design background.
 
 ---
 
-## 📊 GitHub Stats
-
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesyilmaz40&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesyilmaz40&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 - Email: **enesyilmaz40@gmail.com**
@@ -103,7 +86,7 @@ Portfolio-oriented project that reflects my 3D art and visual design background.
 - GitHub: [github.com/enesyilmaz40](https://github.com/enesyilmaz40)
 """
 
-path = "/mnt/data/README.md"
+path = "/mnt/data/README_FIXED_NO_STATS.md"
 with open(path, "w", encoding="utf-8") as f:
     f.write(readme)
 path
