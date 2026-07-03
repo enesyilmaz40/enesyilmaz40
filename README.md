@@ -1,24 +1,135 @@
+```md
+<h1 align="center">Hi, I'm Enes Yılmaz 👋</h1>
 
+<h3 align="center">
+.NET Developer | AI & RAG Enthusiast | OCR & Document Automation | 3D Artist
+</h3>
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm Enes Yilmaz from Turkey and an experienced .Net Developer with a well-developed domain expertise and knowledge and an outstanding track record in employer and customer satisfaction.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesyilmaz40&label=Profile%20views&color=0e75b6&style=flat" alt="enesyilmaz40" /> </p>
-
-- 📫 How to reach me **enesyilmaz40@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/enesyilmaz40/](https://www.linkedin.com/in/enesyilmaz40/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cosmosyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cosmosyilmaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/enesyilmaz40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesyilmaz40" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/enesyilmaz40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="enesyilmaz40/" height="30" width="40" /></a>
+<p align="center">
+I build backend-heavy applications with .NET, SQL Server and modern web technologies.  
+I am also interested in AI-powered document processing, local LLMs, RAG systems and 3D production workflows.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:enesyilmaz40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-enesyilmaz40%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/enesyilmaz40/">
+    <img src="https://img.shields.io/badge/LinkedIn-Enes%20Yılmaz-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/enesyilmaz40">
+    <img src="https://komarev.com/ghpvc/?username=enesyilmaz40&label=Profile%20views&color=0e75b6&style=flat-square" />
+  </a>
+</p>
 
+---
 
+## 👨‍💻 About Me
+
+- I work mainly with **C#, .NET, ASP.NET Core, WCF, Web API and SQL Server**
+- I develop enterprise applications for **document capture, indexing, OCR, export and automation workflows**
+- I am actively exploring **local LLMs, Ollama, Semantic Kernel, RAG and vector databases**
+- I also build frontend projects with **React, Next.js, TypeScript and Tailwind CSS**
+- My creative side comes from **3D art, Blender and digital design**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [Lumos.Chat.Bot](https://github.com/enesyilmaz40/Lumos.Chat.Bot)
+AI-focused chatbot project built around modern .NET architecture and local LLM concepts.
+
+### 🔹 [MyShelf](https://github.com/enesyilmaz40/MyShelf)
+A full-stack application using modern backend and frontend technologies.
+
+### 🔹 [MultiShop](https://github.com/enesyilmaz40/MultiShop)
+Microservices-based e-commerce project focused on distributed service architecture.
+
+### 🔹 [3dStudioPortfolio](https://github.com/enesyilmaz40/3dStudioPortfolio)
+A portfolio-oriented project that reflects my 3D art and visual design background.
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WCF-68217A?style=flat-square&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20API-00599C?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+### Database & Data
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+### AI & Tools
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic%20Kernel-512BD4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-0052CC?style=flat-square&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### Creative
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Building stronger **.NET backend and microservice architectures**
+- Improving **AI-assisted document processing and OCR workflows**
+- Developing **local LLM / RAG based applications**
+- Combining software engineering with **3D and visual production**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enesyilmaz40&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesyilmaz40&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/enesyilmaz40/">
+    <img src="https://img.shields.io/badge/LinkedIn-enesyilmaz40-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/cosmosyilmaz">
+    <img src="https://img.shields.io/badge/X-cosmosyilmaz-black?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:enesyilmaz40@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-enesyilmaz40%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+```
